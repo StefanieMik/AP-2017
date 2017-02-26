@@ -1,0 +1,2 @@
+My throbber pictures a clock moving quickly. The text "wait a minute" is written just above the clock. I spent a long timme trying to make the clock hands move synchronously the way they do in real-life, but I just couldn't get them to do it. Therefore, the hour and minute hands move faster than the second hand. 
+The fact that the clock moves as fast as it does, is an effect made on purpose. When loading something on a computer, it often happens very quickly and the speed is what the fast-moving hands are supposed to symbolize. 
