@@ -1,4 +1,3 @@
-
 var animal = [];
 var button;
 var bg;
@@ -26,7 +25,7 @@ function draw() {
 
  for (var i = 0; i <animal.length; i++) {
 
-  animal[i].drive();
+  animal[i].run();
   animal[i].display();
  }
 }
@@ -34,7 +33,7 @@ function draw() {
 function bet() {
 
   animal[animal.length] = new Animal(color(random(155,255)), random(2,10), random(10,20), random(10,500), random(30));
-
+}
 
 function Animal(getcolor, speed, xpos, ypos, size) {
    
